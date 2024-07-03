@@ -1,3 +1,2 @@
 # Prolog-Transporation-Project
-This Project is a simplified version of google maps navigation.
-It uses the programming language prolog to find the best possible route to travel from a specific location to the university campus using public transportation in Berlin.
+Led a team in the development of a Prolog-based software project as part of university coursework. The project aimed to create a simplified navigation system inspired by Google Maps, tailored specifically for GIU students in Berlin. Our software provides students with comprehensive route options from various locations in Berlin to the university campus, accommodating their preferences and requirements.
